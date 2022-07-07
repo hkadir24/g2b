@@ -1,0 +1,3 @@
+- Close the tab before going to PM
+- Delete the products under orderHistory
+- Delete the 24:12's
